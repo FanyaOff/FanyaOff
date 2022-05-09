@@ -1,4 +1,4 @@
-**C# Coder**
+### **C# Junior Developer**
 
 ![FanyaOff's GitHub stats](https://github-readme-stats.vercel.app/api?username=FanyaOff&layout=compact&langs_count=7&theme=dracula)
 
